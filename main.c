@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
     
     int opcion;
-    int id[10] = {12, 55, 14, 17, 0, 0, 0, 0, 0, 0};
+    int id[10] = {1, 2, 3, 4, 0, 0, 0, 0, 0, 0};
     char *nombres[10] = {"Esfero", "Calculadora", "Sacapuntas", "Borrador", "------",
                         "------", "------", "------", "------", "------"};
     int cantidad[10] = {2, 3, 1, 4, 0, 0, 0, 0, 0, 0};
