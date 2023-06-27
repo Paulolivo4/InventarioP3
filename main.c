@@ -7,7 +7,7 @@
 
 int main(int argc, char *argv[])
 {
-    // Declaración de variables y arrays con la información del inventario
+    
     int opcion;
     int id[10] = {12, 55, 14, 17, 0, 0, 0, 0, 0, 0};
     char *nombres[10] = {"Esfero", "Calculadora", "Sacapuntas", "Borrador", "------",
@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
     char nuevo_nombre[50];
 
 
-    //Ejecución del menú del inventario
+    
     do
     {
         printf("\n-----------------MENU-------------\n");
